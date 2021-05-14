@@ -2,3 +2,8 @@ body {
   background-color: #fff3d0;
   text-align: center;
 }
+
+#disqus_thread {
+  margin: 2rem auto;
+  max-width: 600px;
+}
